@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/firebase-travel-companion.git
+git clone https://github.com/Abdelmoumainenessah2002/firebase-travel-companion.git
 Set up Firebase:
 
 Create a Firebase project and enable Authentication and Firestore.
